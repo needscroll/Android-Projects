@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">assignment 1 jaw160230</string>
+    <string name="action_settings">Settings</string>
+    <string name="apple">apple</string>
+    <string name="bananna">bananna</string>
+    <string name="grape">grape</string>
+    <string name="lettuce">lettuce</string>
+    <string name="watermelon">watermelon</string>
+    <string name="title_activity_fruit_list">FruitList</string>
+    <string name="view_list">View List</string>
+
+
+</resources>

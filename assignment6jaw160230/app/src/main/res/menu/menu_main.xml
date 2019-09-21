@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.example.assignment2jaw160230.MainActivity">
+<item
+    android:id="@+id/addcontact"
+    android:orderInCategory="100"
+    android:title="@string/addcontact"
+    app:showAsAction="never" />
+
+    <item
+        android:id="@+id/reinitialize"
+        android:orderInCategory="100"
+        android:title="reinitialize"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/importdata"
+        android:orderInCategory="100"
+        android:title="import"
+        app:showAsAction="never" />
+</menu>
